@@ -37,8 +37,7 @@ Not overestimating how much we could get done per iteration.
 **How large is the project (number of methods, classes, etc)? How much of this is (roughly) devoted to each major system component? And any other quantifiables (e.g. if you have a record of hours spent on tasks).**
 
 
-Storage wise pretty large since we included a lot of image files in our assets and for our app.
-
+The project is pretty large, since we have two main objects (users and restauarants) and 2 smaller objects (giftcard and fooditem) with all of those having various logic classes. We have an extensive test suite as well. We also have a lot of presentation and layout files for our UI since we have lots of pages and popups. Roughly 50% of the project is devoted to users and restaurants, 25% is devoted to UI/presentation, 15% is devoted to testing, with the final 10% devoted to fooditems and giftcard.
 
 **What took the most time? The least? Any surprises?**
 
