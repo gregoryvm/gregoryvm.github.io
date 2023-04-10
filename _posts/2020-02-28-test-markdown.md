@@ -8,9 +8,6 @@ gh-badge: [star, fork, follow]
 comments: true
 ---
 
-An overview of your project
-
-
 - The vision statement:
 
 The application OrderUp will be used as an **online food delivery service** to conveniently deliver personalized cuisine orders to customers from their nearby restaurants.  
