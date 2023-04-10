@@ -2,9 +2,9 @@
 layout: post
 title: An overview of our project.
 subtitle: What ambitions do we have for our app.
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/mountains.jpg
+thumbnail-img: ""
+share-img: /assets/img/mountains.jpg
 comments: true
 ---
 
