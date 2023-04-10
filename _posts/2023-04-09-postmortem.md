@@ -3,8 +3,8 @@ layout: post
 title: A post-mortem of our project.
 subtitle: What went well and what did not.
 thumbnail-img: ""
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/city.jpg
+share-img: /assets/img/city.jpg
 ---
 
 A postmortem of your development experience, where you discuss some of the issues that arose during the development of your process. You can (and should) include both negative and positive points; they will not count against your project mark. It is highly recommended that you include the last three items from the list above. Also ensure that you discuss the area you identified for improvement after your iteration 2 retrospective; how did it go? This should be informal, you can choose two or three of the following items to discuss, or something else you find interesting or relevant:
