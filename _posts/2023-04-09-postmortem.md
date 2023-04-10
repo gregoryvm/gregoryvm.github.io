@@ -44,12 +44,6 @@ UI related code and gathering information were the least time consuming since we
 The website complexity, the amount of smells per iteration we recieved and having to switch our database implementation from SQLite to HSQLDB were surprizes. 
 
 
-**Are there any particular design smells, or brilliant design decisions?**
-
-
-We had an outstanding smell for using the builder design pattern in our restaurant constructor.
-
-
 **Did any features work better than expected?**
 
 
