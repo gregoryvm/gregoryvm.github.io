@@ -49,10 +49,6 @@ The website complexity, the amount of smells per iteration we recieved and havin
 
 We had an outstanding smell for using the builder design pattern in our restaurant constructor.
 
-**Are there any outstanding bugs?**
-
-
-TBD
 
 **Did any features work better than expected?**
 
