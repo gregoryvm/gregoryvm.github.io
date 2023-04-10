@@ -92,4 +92,3 @@ We learned that in one feature there are many tasks so that everyone on the team
 
 
 We came to the conclusion that communication is very important for these types of projects, more than we anticipated. We also realized how helpful the agile development methodology is, it allowed for more communication so that we were all on the same page with changes and keeping the project on track. 
-
