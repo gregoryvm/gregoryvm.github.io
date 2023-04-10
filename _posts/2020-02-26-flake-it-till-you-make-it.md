@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A post-mortem of our project
+title: A post-mortem of our project.
 subtitle: What went well and what did not.
 thumbnail-img: ""
 cover-img: /assets/img/path.jpg
