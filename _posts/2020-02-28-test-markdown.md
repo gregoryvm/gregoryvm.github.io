@@ -2,7 +2,7 @@
 layout: post
 title: An overview of our project.
 subtitle: What ambitions do we have for our app.
-thumbnail-img:
+thumbnail-img: /assets/img/mountain.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 comments: true
