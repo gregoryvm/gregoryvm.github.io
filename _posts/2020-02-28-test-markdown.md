@@ -15,9 +15,7 @@ An overview of your project
 
 The application OrderUp will be used as an **online food delivery service** to conveniently deliver personalized cuisine orders to customers from their nearby restaurants.  
 
-The main goal of this project is to **help people get the food that they are craving at their convenience**. The application takes into consideration users who lead a busy life so the system is designed to alleviate the hassle of cooking meals at home and the subsequent disruption to a workflow that can entail, and it also eliminates the need to drive out to a restaurant and wait for the order. The application has a wide range of target audiences, as the use of this application will differ based on the user’s schedule or vehicle availability. For customers who do not have access to a vehicle, or who are unable to drive out to pick up their food, they can instead conveniently order food for delivery through OrderUp. However, for those who are working professionals seeking to maintain their productivity, and for parents whose busy lifestyles get in the way of cooking quality meals for themselves, or their families can use OrderUp to order food for delivery to **arrive at a time scheduled by them**.  
-
-OrderUp also takes into consideration customers who prefer visual information rather than long texts as it is more engaging and an alternative for those who have reading difficulties. Thus, the application has a **map that shows nearby restaurants** for easy visualization from users' precise location. By having a visual representation of where the nearby restaurants lie from the user's current location it will assist the user in making a quick decision as they can now easily assess delivery times of different restaurants based on their distance. 
+The main goal of this project is to **help people get the food that they are craving at their convenience**. The application takes into consideration users who lead a busy life so the system is designed to alleviate the hassle of cooking meals at home and the subsequent disruption to a workflow that can entail, and it also eliminates the need to drive out to a restaurant and wait for the order. 
 
 To provide customer satisfaction, our service accepts **user feedback** to improve our services and assist other customers in making an informed decision by being able to view feedback left by other customers. For cost-conscious customers, the application allows easy access to any available coupon codes to get food at a discounted price. For returning customers, the system allows its customers to **save their banking information** in their account to help make an easy transaction for when they return to use the application. For customers that do not know their neighbourhood well enough, we have the restaurants placed on a *map* for an easier understanding of their location.  
 
@@ -28,83 +26,24 @@ In comparison to other online food delivery applications, OrderUp is designed to
 The application is meant to **save the users' time** to allow them to do what is important to them, whether that’s spending time with their loved ones, being productive in their studies or work, or simply kicking back and relaxing. So, this is an application that accomplishes being a food delivery service that values its customers' time and loyalty while appealing to a wide range of users. 
 
 
-
-
-
 - A description of the intended users
 
+The application has a wide range of target audiences, as the use of this application will differ based on the user’s schedule or vehicle availability. For customers who do not have access to a vehicle, or who are unable to drive out to pick up their food, they can instead conveniently order food for delivery through OrderUp. However, for those who are working professionals seeking to maintain their productivity, and for parents whose busy lifestyles get in the way of cooking quality meals for themselves, or their families can use OrderUp to order food for delivery to **arrive at a time scheduled by them**.  
+
+OrderUp also takes into consideration customers who prefer visual information rather than long texts as it is more engaging and an alternative for those who have reading difficulties. Thus, the application has a **map that shows nearby restaurants** for easy visualization from users' precise location. By having a visual representation of where the nearby restaurants lie from the user's current location it will assist the user in making a quick decision as they can now easily assess delivery times of different restaurants based on their distance. 
 
 - An overview of major functionality
 
+The functionality of our app is designed to enhance the user experience for ordering food through delivery. We have dedicated user accounts to store a user's data so that it's there for their convenience when they order. We have a search box with a built in search algorithm to help users find the restauarants they are searching for. We also included checkout carts so that users can add menu items to their cart, even from multiple different restauarants. Our app also has a premium membership feature that allows users to take advantage of decreased delivery fees for a one time fee. In addition to that we also have giftcards which can be redeemed into a built in wallet so that you can store your app balance digitally. Users can also leave feedback on restaurants which is extremely valuable both to our restaurant partners and other users. Finally we have a customer service page to help provide assistance to customers facing issues with our app. 
 
 - A list of contributors/team members, including a description of any specific special development skills that each team member gained.
 
+Jackson:
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Krupal:
 
-**Here is some bold text**
+Harsimran:
 
-## Here is a secondary heading
+Vaughn: Gained skills in HSQLDB and general database knowledge, android code for UI, and project managment through gitlab.
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Sanjana:
