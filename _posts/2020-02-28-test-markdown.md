@@ -4,7 +4,6 @@ title: An overview of our project.
 subtitle: What ambitions do we have for our app.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
