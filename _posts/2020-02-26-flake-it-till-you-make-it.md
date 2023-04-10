@@ -3,7 +3,7 @@ layout: post
 title: A post-mortem of our project
 subtitle: What went well and what did not.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img:
 share-img: /assets/img/path.jpg
 ---
 
